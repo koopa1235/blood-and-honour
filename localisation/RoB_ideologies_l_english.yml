@@ -1,0 +1,137 @@
+l_english:
+ ###Main Indeologies
+ 
+ national_marxist:0 "National Marxism"
+ national_marxist_noun:0 "National Marxist"
+ national_marxist_desc:0 "Socialist State"
+ socialist_marxist:0 "Socialist Marxism"
+ socialist_marxist_noun:0 "Socialist Marxism"
+ socialist_marxist_desc:0 "Socialist Republic"
+ anarcho_syndcialist:0 "Anarcho Syndicalism"
+ anarcho_syndcialist_noun:0 "Anarcho Syndcialism"
+ anarcho_syndcialist_desc:0 "Syndicalist Republic"
+ 
+ social_democracy:0 "Social Democracy"
+ social_democracy_noun:0 "Social Democrat"
+ social_democracy_desc:0 "Social Democracy"
+ social_liberal:0 "Social Liberalism"
+ social_liberal_noun:0 "Social Liberal"
+ social_liberal_desc:0 "Liberal Democracy"
+ conservative:0 "Conservatism"
+ conservative_noun:0 "Conservative"
+ conservative_desc:0 "Conservative Democracy"
+ 
+ authoritharian:0 "Authoritarianism"
+ authoritharian_noun:0 "Authoritarian"
+ authoritharian_desc:0 "Authoritarian State"
+ despotist:0 "Despotism"
+ despotist_noun:0 "Despotism"
+ despotist_desc:0 "Reactionary State"
+ national_populist:0 "National Populism"
+ national_populist_noun:0 "National Populism"
+ national_populist_desc:0 "Nationalist State"
+ national_syndicalist:0 "National Syndicalism"
+ national_syndicalist_noun:0 "National Syndicalism"
+ national_syndicalist_desc:0 "Syndicalist State"
+ ultranationalist:0 " Ultranationalism"
+ ultranationalist_noun:0 "Ultranationalism"
+ ultranationalist_desc:0 "Ultranationalism State"
+ 
+ 
+ ###SubIdeologies
+ ##National Marxism
+ sorelianism:0 "Sorelianism"
+ sorelianism_desc:0 "Mainly inspired by French syndicalist thinker George Sorel, Sorelianism aims to destroy the bourgeoisie society through violent means, with a goal of National-Syndicalist state with a focus on the myth and proletarian culture."
+ revolutionary_nationalism:0 " Revolutionary Nationalism"
+ revolutionary_nationalism_desc:0 "Revolutionary nationalism is a broad label that has been applied to many different types of nationalist political movements that wish to achieve their goals through a revolution against the established order."
+ futurist_marxism:0 "Futurist Marxism"
+ futurist_marxism_desc:0 "The birth of left futurism or marxist futurism came from russian emigres that mixed the ideas of european futurism with marxist philosphy.Such movements seem to be most identifiyable with Cubism and the revolutionary poet Mayakovsky."
+ national_marxist_subtype:0 "National Marxism"
+ national_marxist_subtype_desc:0 "National Marxism refers to the various forms in which marxism has been adopted and/or implemented by leaders in different countries using forms of nationalism or national identity to form a policy independent from communist internationalism. National communism has been used to describe movements and regimes that have sought to form a distinctly unique variant of socialism based upon national conditions rather than following polices set by other socialist nations, such as the French Social Republic"
+ 
+ ##Socialist_Marxism
+ leninism:0 "Leninism"
+ leninism_desc:0 "Leninism is a political ideology developed by Russian Marxist revolutionary Vladimir Lenin that proposes the establishment of the dictatorship of the proletariat led by a revolutionary vanguard party."
+ libertarian_marxism:0 "Libertarian Marxism"
+ libertarian_marxism_desc:0 "Libertarian Marxism is often critical of reformist positions such as those held by social democrats. Libertarian Marxist currents often draw from Karl Marx and Friedrich Engels' later works, specifically the Grundrisse and The Civil War in France emphasizing the Marxist belief in the ability of the working class to forge its own destiny without the need for a state or vanguard party to mediate or aid its liberation"
+ socialist_marxist_subtype:0 "Socialist Marxism"
+ socialist_marxist_subtype_desc:0 "In Marxist theory, socialism refers to a specific stage of social and economic development that will displace capitalism, characterized by coordinated production, public or cooperative ownership of capital, diminishing class conflict and inequalities that spawn from such and the end of wage-labor"
+ marxism:0 "Marxism"
+ marxism_desc:0 "Adhering to ideas of Karl Marx and Friedrich Engel, Marxists believe in class struggle, dialectial materialism and in common ownership of means of production."
+ 
+ ###Anarcho Syndicalism
+ anarcho_socialism:0 "Anarcho-Socialism"
+ anarcho_socialism_desc:0 "Anarcho-Socialists believe in worker ownership over means of production, as well as a total abolition of all opressive authorities, employing violent means to achieve their revolutionary goals."
+ syndicalism:0 "Syndicalism"
+ syndicalism_desc:0 "Syndicalism is an economic and social theory, in which the means of production belong to syndicates or unions of workers, rather than to individual workers themselves. Syndicalists believe, that society and it's economy should be built around these worker organizations."
+ collectivist_anarchism:0 "Collectivist anarchism"
+ collectivist_anarchism_desc:0 "Collectivist anarchism,also referred to as anarchist collectivism and anarcho-collectivism, is a revolutionary socialist[4][5][6] doctrine and anarchist school of thought that advocates the abolition of both the state and private ownership of the means of production as it envisions in its place the means of production being owned collectively whilst controlled and self-managed by the producers and workers themselves. Notwithstanding the name, collectivism anarchism is seen as a blend of individualism and collectivism."
+ anarcho_syndicalist_subtype:0 "Anarcho Syndicalism"
+ anarcho_syndicalist_subtype_desc:0 "A  political philosophy and anarchist school of thought that views revolutionary industrial unionism or syndicalism as a method for workers in capitalist society to gain control of an economy and thus control influence in broader society. The end goal of syndicalism is to abolish the wage system, regarding it as wage slavery. Anarcho-syndicalist theory therefore generally focuses on the labour movement."
+ 
+ ###Social Democracy
+ social_democracy_subtype:0 "Social Democracy"
+ social_democracy_subtype_desc:0 "Social Democrats believe in reformation of the capitalistic system, rather than complete destruction of it, aiming to provide good living quality to workers and farmers inside capitalistic framework."
+ 
+ ###Social Liberal
+ social_liberal_subtype:0 "Social Liberal"
+ social_liberal_subtype_desc:0 "Social Liberals, whose ideas stem from French Revolution and Enlightment era, stand in support of liberal democracy, capitalism and human rights, believing that these are the best possible foundations on which society could be built."
+ 
+ ###Conservative
+ conservative_subtype:0 "Conservatism"
+ conservative_subtype_desc:0 "While in many ways same as pure liberals, conservatives could be called "yesterday's liberals", since they believe in slow reformation and balanced approach to new ideas, while still not being opposed to them at core."
+ national_conservative_subtype:0 "National Conservative"
+ national_conservative_subtype_desc:0 "National conservatism is a variant of conservatism common in Europe and Asia that concentrates on upholding national and cultural identity, usually combining this nationalist concern with conservative stances promoting traditional values."
+ authoritarian_conservatism_subtype:0 "Authoritarian Conservatism"
+ authoritarian_conservatism_subtype_desc:0 "Authoritarian conservatism or reactionary conservatism refers to autocratic regimes that center their ideology around conservative nationalism, rather than ethnic nationalism, though certain racial components such as antisemitism may exist."
+ 
+ ###Authoritarian
+ authoritharian_subtype:0 "Authoritarianism"
+ authoritharian_subtype_desc:0 "Authoritarian goverments support their involment in lifes of their citizens in one way or other. While not being fully reactionary by definition, most authoritharian regimes express strong disdain for communism, classical liberalism and democratic forms of government, while usually being led by one, strong central figure or a council of them, in whose hands lay most of the state's power."
+ constitutional_monarchism_subtype:0 "Constitutional Monarchy"
+ constitutional_monarchism_subtype_desc:0 "Constitutional monarchy, system of government in which a monarch shares power with a constitutionally organized government."
+ absolute_monarchism_subtype:0 "Absolute Monarchism"
+ absolute_monarchism_subtype_desc:0 "Absolute monarchy (or absolutism as doctrine) is a form of monarchy in which the monarch holds supreme autocratic authority, principally not being restricted by written laws, legislature, or unwritten customs."
+ 
+ ###Despotism
+ despotist_subtype:0 "Despotism"
+ despotist_subtype_desc:0 "A form of government in which a single entity rules with absolute power."
+ military_junta:0 "Military Junta"
+ military_junta_desc:0 "This form of government is one, in which most of power over matters of state lay in the hands of military officiers. This type of society is defined by high levels of militarization, anti-communism, anti-liberalism and nationalism."
+ 
+
+ 
+ ##National Populism
+ clerical_nationalism:0 "Clerical Nationalism"
+ clerical_nationalism_desc:0 "The idea of a theocratic regime murged with nationalist ideas and to preserve the religious interestests of the common people"
+ integralism:0 "Integralism"
+ integralism_desc:0 "The idea that temporal political authority should be subordinated to man’s ultimate, spiritual end is a common theme – if not the main theme – of contemporary Catholic integralism."
+ legionairism:0 "Futuristic Pelekism"
+ legionairism_desc:0 "Taking influnce from ideas of Gabrielle D'Annunzio and Filippo Tommaso Marinetti, Futurist-Pelekists believe in a strong, mechanized, masculine, anti-feminine and modern state, characterized by heavy militarism and warrior cult, male supremacy, and technological advancements. Mostly disowning more-reactionary tendencies of D'Annunzio, Futurists belive that their national culture should be purifed of all elements they percieve as degenerated and dead, with an aim of national rebirth in a form of F U T U R I S M."
+ national_populist_subtype:0 "National Populism"
+ national_populist_subtype_desc:0 "Classification of right-wing populism into a single political family has proved difficult and it is not certain whether a meaningful category exists, or merely a cluster of categories since the parties differ in ideology, organization and leadership rhetoric. Unlike traditional parties, they also do not belong to international organizations of like-minded parties, and they do not use similar terms to describe themselves"
+
+
+
+ ##National Syndicalism
+ corporate_syndicalism:0 "Corporate Syndicalism"
+ corporate_syndicalism_desc:0 "Corporatism is a political ideology which advocates the organization of society by corporate groups, such as agricultural, labour, military, scientific, or guild associations, on the basis of their common interests.This is sometimes also referred to as neo-corporatism or social democratic corporatism."
+ monarcho_syndicalism:0 "Monarcho Syndcialism"
+ monarcho_syndicalism_desc:0 "Monarcho-Syndicalism is a authoritarian left, culturally right version of National syndicalism that advocates for an integralist monarchy with a strong focus on freeing the proletariat from hands of the bourgeoisie."
+ national_socialism:0 "National Socialism"
+ national_socialism_desc:0 "The term "National Socialism" arose out of attempts to create a nationalist redefinition of socialism, as an alternative to both Marxist international socialism and free-market capitalism."
+ national_syndicalist_subtype:0 "National Syndicalism"
+ national_syndicalist_subtype_desc:0 "National syndicalism is an adaptation of syndicalism to suit the social agenda of integral nationalism. National syndicalism developed in Italy, and then spread to Greece, Spain, and Portugal."
+
+
+
+
+ ##Ultranationalism
+ esoteric_syndicalism:0 "Esoteric Syndicalism"
+ esoteric_syndicalism_desc:0 "Any of a number of mystical interpretations and adaptations of nationalism and syndicalism. After the First World War, esoteric interpretations of the elder beliefs were adapted into new religious movements of nationalism and syndicalism."
+ futuristic_nationalism:0 "Futuristic Nationalism"
+ futuristic_nationalism_desc:0 "The characteristics of futurism are a focus on the technical progress of the modern machine age, dynamism, speed, energy, vitality and change."
+ chauvinism:0 "Chauvinism"
+ chauvinism_desc:0 "Chauvinism is the irrational belief in the superiority or dominance of one's own group or people, who are seen as strong and virtuous, while others are considered weak, unworthy or inferior."
+ ultranationalist_subtype:0 "Ultranationalism"
+ ultranationalist_subtype_desc:0 "Ultranationalism is "extreme nationalism that promotes the interest of one state or people above all others", or simply "extreme devotion to one's own nation".[1][2] When combined with the notion of national rebirth"
